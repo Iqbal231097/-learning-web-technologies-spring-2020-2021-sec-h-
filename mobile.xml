@@ -1,0 +1,30 @@
+<mobiles>
+   <mobile>
+     <name>samsung</name>
+	 <id>11</id>
+	 <unit_price>35000</unit_price>
+	 <stock>50</stock>
+	 <status>1</status>
+	 
+	</mobile> 
+	mobile>
+     <name>HTC</name>
+	 <id>20</id>
+	 <unit_price>65300</unit_price>
+	 <stock>35</stock>
+	 <status>0</status>
+	 
+	</mobile> 
+	
+    <mobile>
+     <name>Nokia</name>
+	 <id>23</id>
+	 <unit_price>25100</unit_price>
+	 <stock>100</stock>
+	 <status>1</status>
+	 
+	</mobile> 	
+	
+</mobiles>	
+	      
+   
