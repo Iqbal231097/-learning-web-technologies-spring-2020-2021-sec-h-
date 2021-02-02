@@ -1,0 +1,25 @@
+<employees>
+  <employee> 
+  <serial_no>23</serial_no>
+  <name>
+    <firstname>john</firstname>
+    <lastname>carter</lastname>
+  </name>
+  <admission_date>25/12/2015</admission_date>
+  </employee>
+  <employee> 
+  <serial_no>29</serial_no>
+  <name>
+    <firstname>Bob</firstname>
+    <lastname>Marshal</lastname>
+  </name>
+  <admission_date>13/01/1999</admission_date>
+  </employee>
+  <employee> 
+  <serial_no>35</serial_no>
+  <name>
+    <firstname>clark</firstname>
+    <lastname>kent</lastname>
+  </name>
+  <admission_date>17/06/2005</admission_date>
+  </employee>
