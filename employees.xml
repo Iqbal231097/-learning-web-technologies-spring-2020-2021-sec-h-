@@ -1,0 +1,24 @@
+<employeees>
+<employee>
+  <name>john Doe</name>
+  <id>1</id>
+  <address>H#38,R#3,Banani,Dhaka</address>
+  <depertment>sales</depertment>
+  <salary>$20000></salary>
+  </employee>
+  <employee>
+  <name>Mark zukerberg</name>
+  <id>2</id>
+  <address>Flat# A/1, H# 20, R#18, Mirpur, Dhaka</address>
+  <depertment>accounts</depertment>
+  <salary>$12000></salary>
+  </employee>
+  employee>
+  <name>Ala voski</name>
+  <id>3</id>
+  <address>H#38,R#3,Motijheel</address>
+  <depertment>Human resource</depertment>
+  <salary>$30000></salary>
+  </employee>
+  </employeees>
+  
